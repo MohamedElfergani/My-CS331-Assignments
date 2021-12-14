@@ -1,0 +1,20 @@
+- Each Employee can provide many services
+- Each employe can have many scheduled days
+- One employee can perform maintenance on many equipment 
+- (customer_ID, service_ID, and employee_ID) are foreign keys that reference Service Provided in the employee table
+
+- One customer can have many services provided
+
+- One supplier can have many transactions
+- One supplier can  supply many equipment and many cleaningSupplies
+
+- CleaningTransaction pk(supplierTransaction_ID_Number, CleaningSupply_name) are foreign keys referencing CleaningSupply
+  and supplierTransaction
+- supplierEquipment pk(supplierTransaction_ID_Number, Equipment_ID_number) are foreign keys referencing SupplierTransaction
+  and Equipment
+- SupplierTransaction pk(Supplier_ID_Number, supplierTransaction_ID_Number) are foreign keys referencing supplierTransaction
+  and Supplier
+- Customer_has_service_provided pl(Customer_ID_Number, serviceProvided_customer_ID,ServiceProvided_serviceID, ServiceProvided_employee_ID) 
+  are foreign keys that reference Customer and Service Provided
+- MainSchedule pk(maintenanceDate, Equipment_ID_Number, Employee_ID_Number) where Equipment_ID_Number is a foreign key referencing Equipment 
+  and Employee_ID_Number is a foreign key referencing Employee

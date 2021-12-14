@@ -1,0 +1,565 @@
+"title": "cinnamon shake",
+"description": "This cool delicious shake will keep you refreshed and feeling great anytime in the year!",
+"category": [
+    "beverage"
+],
+"ingredient": [{
+        "amount": "1",
+        "unit": "cup",
+        "name": "milk"
+    },
+    {
+        "amount": "3",
+        "unit": "tsp",
+        "name": "white sugar"
+    },
+    {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "vanilla extract"
+    },
+    {
+        "amount": "0.25",
+        "unit": "tsp",
+        "name": "ground cinnamon"
+    }
+],
+"step": [{
+    "description": "Combine milk, sugar, vanilla extract, cinnamon, and ice in a blender; blend on high until smooth. Pour milkshake into a glass."
+}]
+},
+
+
+
+{
+    "title": "Chicken noodle soup",
+    "description": "Classic chicken noodle soup that will leave you feeling so good. Perfect for sick days and cold nights!",
+    "category": [
+        "starter"
+    ],
+    "ingredient": [{
+            "amount": "2",
+            "unit": "tsp",
+            "name": "unsalted butter"
+        },
+        {
+            "amount": "1",
+            "unit": "tsp",
+            "name": "chopped fresh ginger"
+        },
+        {
+            "amount": "50",
+            "unit": "grams",
+            "name": "rice or wheat noodles"
+        },
+        {
+            "amount": "1",
+            "name": "diced onion"
+        },
+        {
+            "amount": "1",
+            "name": "boneless chicken"
+        },
+        {
+            "amount": "2",
+            "unit": "cups",
+            "name": "water"
+        }
+
+    ],
+    "step": [{
+            "description": "Pour the stock into a pan and add the chicken breast, ginger and garlic."
+        },
+        {
+            "description": "Put the chicken on a board and shred into bite-size pieces using a couple of forks."
+        },
+        {
+            "description": "Ladle into two bowls and scatter over the remaining spring onion, mint or basil leaves and chilli, if using"
+        }
+
+    ]
+},
+
+
+
+
+
+{
+    "title": "Chicken pasta bake",
+    "description": "Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner.",
+    "category": [
+        "dinner"
+    ],
+    "ingredient": [{
+            "amount": "4",
+            "unit": "tsp",
+            "name": "olive oil"
+        },
+        {
+            "amount": "1",
+            "name": "onion"
+        },
+        {
+            "amount": "2",
+            "name": "gorlic cloves"
+        },
+        {
+            "amount": "4",
+            "name": "skinless chicken breasts"
+        },
+        {
+            "amount": "50",
+            "amount": "grams",
+            "name": "grated mozzarella"
+        },
+        {
+            "amount": "1",
+            "unit": "tsp",
+            "name": "sugar"
+        }
+
+    ],
+    "step": [{
+            "description": "Heat 2 tbsp of the oil in a pan over a medium heat and fry the onion gently for 10-12 mins."
+        },
+        {
+            "description": "Add the garlic and chilli flakes and cook for 1 min."
+        },
+        {
+            "description": "Heat 1 tbsp of oil in a non-stick frying pan. Season the chicken and fry for 5-7 mins or until the chicken is cooked through. "
+        },
+        {
+            "description": "Bake for 20 mins or until golden brown and bubbling."
+        }
+
+    ]
+},
+
+
+
+
+{
+    "title": "Breakfast egg wrap",
+    "description": "Enjoy these protein-rich egg wraps filled with mushrooms and tomatoes for a quick, filling and healthy breakfast.",
+    "category": [
+        "breakfast "
+    ],
+    "ingredient": [{
+            "amount": "4",
+            "unit": "tsp",
+            "name": "oil"
+        },
+        {
+            "amount": "10",
+            "name": "eggs"
+        },
+        {
+            "amount": "8",
+            "unit": "tbsp",
+            "name": "porridge oats"
+        },
+        {
+            "amount": "2",
+            "name": "handfuls parsley"
+        },
+        {
+            "amount": "500",
+            "amount": "grams",
+            "name": "pack closed cup mushrooms"
+        },
+        {
+            "amount": "320",
+            "unit": "tsp",
+            "name": "cherry tomatoes"
+        }
+
+    ],
+    "step": [{
+            "description": "Thickly slice half the pack of mushrooms. Heat 2 tsp rapeseed oil in a non-stick pan."
+        },
+        {
+            "description": "Add the mushrooms, stir briefly then fry with the lid on the pan for 6-8 mins."
+        },
+        {
+            "description": "Beat together the eggs really well with the parsley and oats. Heat a drop of oil in a large non-stick frying pan. "
+        },
+        {
+            "description": "Pour in a ¼ of the egg mix and fry for 1 min until almost set, flip over as if making a pancake. "
+        }
+
+    ]
+},
+
+
+
+{
+    "title": "Chickpea curry",
+    "description": "this is a vegan recipe that's three of your five-a-day. It works well as a main course",
+    "category": [
+        "main course"
+    ],
+    "ingredient": [{
+            "amount": "2",
+            "unit": "tbsp",
+            "name": "oil"
+        },
+        {
+            "amount": "1",
+            "name": "onion"
+        },
+        {
+            "amount": "1",
+            "unit": "tsp",
+            "name": "fresh or dried chilli"
+        },
+        {
+            "amount": "2",
+            "name": "handfuls parsley"
+        },
+        {
+            "amount": "1",
+            "amount": "tbsp",
+            "name": "ground coriander"
+        },
+        {
+            "amount": "1",
+            "unit": "tbsp",
+            "name": "ground cumin"
+        },
+        {
+            "amount": "1",
+            "unit": "tbsp",
+            "name": "garam masala"
+        },
+        {
+            "amount": "800",
+            "unit": "grams",
+            "name": "chickpeas"
+        }
+
+
+    ],
+    "step": [{
+            "description": "Thickly slice half the pack of mushrooms. Heat 2 tsp rapeseed oil in a non-stick pan."
+        },
+        {
+            "description": "Add the mushrooms, stir briefly then fry with the lid on the pan for 6-8 mins."
+        },
+        {
+            "description": "Beat together the eggs really well with the parsley and oats. Heat a drop of oil in a large non-stick frying pan. "
+        },
+        {
+            "description": "Pour in a ¼ of the egg mix and fry for 1 min until almost set, flip over as if making a pancake. "
+        }
+
+    ]
+},
+
+
+
+{
+
+    "title": "Pumpkin muffins",
+    "description": "this is a cinnamon spiced pumpkin muffins as a mid-morning snack",
+    "category": [
+        "snack"
+    ],
+    "ingredient": [{
+            "amount": "125",
+            "unit": "grams",
+            "name": "salted butter"
+        },
+        {
+            "amount": "2",
+            "name": "eggs"
+        },
+        {
+            "amount": "200",
+            "unit": "grams",
+            "name": "pumpkin purée"
+        },
+        {
+            "amount": "50",
+            "unit": "grams",
+            "name": "brown sugar"
+        },
+        {
+            "amount": "100",
+            "amount": "grams",
+            "name": "caster sugar"
+        },
+        {
+            "amount": "1",
+            "unit": "tbsp",
+            "name": "ground cinnamon"
+        },
+        {
+            "amount": "2",
+            "unit": "tsp",
+            "name": "baking powder"
+        },
+        {
+            "amount": "225",
+            "unit": "grams",
+            "name": "plain flour"
+        }
+
+
+    ],
+    "step": [{
+            "description": "Heat the oven to 200C/180C fan/gas 6. Line a 12-hole muffin tin with muffin cases. "
+        },
+        {
+            "description": "Mix the flour, baking powder, cinnamon and both sugars together in a large bowl."
+        },
+        {
+            "description": "Whisk the purée and eggs together in a jug, then add to the dry ingredients with the melted butter."
+        },
+        {
+            "description": "Bake for 15 mins until golden and risen and a skewer inserted comes out clean."
+        }
+
+    ]
+
+},
+
+
+{
+    "title": "Chocolate cheesecake",
+    "description": "this chocolate cheesecake is a indulgent end to a dinner party or weekend family meal!",
+    "category": [
+        "dessert"
+    ],
+    "ingredient": [{
+            "amount": "150",
+            "unit": "grams",
+            "name": "digestive biscuits"
+        },
+        {
+            "amount": "2",
+            "name": "eggs"
+        },
+        {
+            "amount": "45",
+            "unit": "grams",
+            "name": "melted butter"
+        },
+        {
+            "amount": "150",
+            "unit": "grams",
+            "name": "Dark chocolate"
+        },
+        {
+            "amount": "120",
+            "amount": "ml",
+            "name": "double cream"
+        },
+        {
+            "amount": "1",
+            "unit": "tbsp",
+            "name": "caster sugar"
+        },
+        {
+            "amount": "200",
+            "unit": "grams",
+            "name": "cream cheese"
+        },
+        {
+            "amount": "2",
+            "unit": "tsp",
+            "name": "cocoa powder"
+        }
+
+
+    ],
+    "step": [{
+            "description": "To make the biscuit base, crush the digestive biscuits with a rolling pin or blitz in a food processor."
+        },
+        {
+            "description": "To make the cheesecake, melt the chocolate in short bursts in the microwave, then leave to cool slightly."
+        },
+        {
+            "description": "Whip the cream in a large bowl using an electric whisk until soft peaks form, then fold in the cocoa powder."
+        },
+        {
+            "description": "Spoon the cheesecake mixture over the biscuit base, levelling it out with the back of a spoon."
+        },
+        {
+            "description": "Transfer to the freezer and freeze for 2 hrs, or until set."
+        }
+
+    ]
+},
+
+
+{
+    "title": "Chia pudding",
+    "description": "Chia seeds are rich in protein, antioxidants and omega 3, as well as many other nutrients",
+    "category": [
+        "breakfast"
+    ],
+    "ingredient": [{
+            "amount": "2",
+            "unit": "tbsp",
+            "name": "chai seeds"
+        },
+        {
+            "amount": "125",
+            "amount": "ml",
+            "name": "oat milk"
+        },
+        {
+            "amount": "2",
+            "unit": "tsp",
+            "name": "maple syrup"
+        },
+        {
+            "name": "fruit, such as berries, banana, kiwis or mango, to serve"
+        }
+
+    ],
+    "step": [{
+            "description": "Combine the chia seeds, milk and 2 tsp maple syrup in a jar or bowl."
+        },
+        {
+            "description": "Cover and chill overnight or for at least 8 hrs."
+        },
+        {
+            "description": "When ready to serve, top with fruit and a drizzle of maple syrup."
+        }
+
+    ]
+
+},
+
+
+
+
+
+
+
+{
+    "title": "Roast chicken thighs with brown rice & salsa verde",
+    "description": "Enjoy this tasty meal with benefits like vitamin C from the salsa verde which helps iron absorbtion",
+    "category": [
+        "dinner"
+    ],
+    "ingredient": [{
+            "amount": "3",
+            "name": "skinless boneless chicken thighs"
+        },
+        {
+            "amount": "2",
+            "amount": "tbsp",
+            "name": "oil"
+        },
+        {
+            "amount": "2",
+            "unit": "tsp",
+            "name": "garlic cloves"
+        },
+        {
+            "amount": "0.5",
+            "name": "coriander"
+        },
+        {
+            "amount": "0.5",
+            "name": "parsley"
+        },
+        {
+            "amount": "1",
+            "name": "anchovy fillet"
+        },
+        {
+            "amount": "0.5",
+            "unit": "tbsp",
+            "name": "capers"
+        },
+        {
+            "amount": "0.5",
+            "name": "lemon"
+        },
+        {
+            "amount": "200",
+            "unit": "gram",
+            "name": "cooked wholegrain rice"
+        }
+
+    ],
+    "step": [{
+            "description": "Heat oven to 200C/180C. Season the chicken, rub with ½ tbsp oil."
+        },
+        {
+            "description": "then put in a large roasting tin with the garlic and roast for 25-30 mins."
+        },
+        {
+            "description": "Meanwhile, blitz the herbs, anchovy, capers, lemon juice and remaining oil."
+        },
+        {
+            "descripton": "Once the chicken is cooked, remove the tin from the oven and squeeze the garlic out of their skins."
+        },
+        {
+            "description": "Tip in the rice and use a wooden spoon to break it up, then add the lemon zest and toss. Return to the oven for 5 mins."
+        }
+    ]
+},
+
+
+{
+    "title": "Slow cooker spiced root & lentil casserole",
+    "description": "Warm up on chilly days with this vegetarian slow-cooker stew.",
+    "category": [
+        "snack"
+    ],
+    "ingredient": [{
+            "amount": "2",
+            "unit": "tbsp",
+            "name": "olive oil"
+        },
+        {
+            "amount": "1",
+            "name": "onion"
+        },
+        {
+            "amount": "3",
+            "name": "carrots"
+        },
+        {
+            "amount": "500",
+            "unit": "grams",
+            "name": "parsnips"
+        },
+        {
+            "amount": "3",
+            "name": "garlic cloves"
+        },
+        {
+            "amount": "2",
+            "unit": "tbsp",
+            "name": "curry powder"
+        },
+        {
+            "amount": "1",
+            "unit": "tbsp",
+            "name": "smoked paprika"
+        },
+        {
+            "amount": "600",
+            "unit": "ml",
+            "name": "vegan vegetable"
+        }
+
+
+    ],
+    "step": [{
+                "description": "Heat the slow cooker to low. Heat the oil in a frying pan and cook the onion for 10 mins until soft and transparent."
+            },
+            {
+                "description": "Add the carrots and parsnips and fry for 8-10 mins more until the veg is just golden."
+            },
+            {
+                "description": "Stir in the garlic and spices, and fry for 4-5 mins until fragrant, stirring."
+            },
+            {
+                "description": "Close the lid and cook on low for 5-6 hrs until the vegetables are tender and the sauce has thickened."
+            }
